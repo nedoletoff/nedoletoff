@@ -36,15 +36,15 @@
 ## 🔍 Ключевые проекты
 
 ### 🎓 Учебные работы
-[![SuaiLabs](https://github-readme-stats.vercel.app/api/pin/?username=nedoletoff&repo=SuaiLabs&theme=radical)](https://github.com/nedoletoff/SuaiLabs)
-[![IoT_system_model](https://github-readme-stats.vercel.app/api/pin/?username=nedoletoff&repo=IoT_system_model&theme=radical)](https://github.com/nedoletoff/IoT_system_model)
+[SuaiLabs](https://github.com/nedoletoff/SuaiLabs)
+[IoT_system_model](https://github.com/nedoletoff/IoT_system_model)
 
 ### 🔧 DevOps инструменты
-[![init_debian](https://github-readme-stats.vercel.app/api/pin/?username=nedoletoff&repo=init_debian&theme=radical)](https://github.com/nedoletoff/init_debian)
+[init_debian](https://github.com/nedoletoff/init_debian)
 
-[![project_to_md](https://github-readme-stats.vercel.app/api/pin/?username=nedoletoff&repo=project_to_md&theme=radical)](https://github.com/nedoletoff/project_to_md)
+[project_to_md](https://github.com/nedoletoff/project_to_md)
 
 ## 📈 Активность на GitHub
 
-[![GitHub stats](https://github-stats-alpha.vercel.app/api?username=nedoletoff&show_icons=true&theme=dark)](https://github.com/nedoletoff)
-[![Top Langs](https://github-stats-alpha.vercel.app/api/top-langs/?username=nedoletoff&layout=compact&theme=dark)](https://github.com/nedoletoff)
+[GitHub stats](https://github.com/nedoletoff)
+[Top Langs](https://github.com/nedoletoff)
