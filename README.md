@@ -36,8 +36,9 @@
 ## 🔍 Ключевые проекты
 
 ### 🎓 Учебные работы
-[SuaiLabs](https://github.com/nedoletoff/SuaiLabs)
-[IoT_system_model](https://github.com/nedoletoff/IoT_system_model)
+[![SuaiLabs](https://github-readme-stats.vercel.app/api/pin/?username=nedoletoff&repo=SuaiLabs)](https://github.com/nedoletoff/SuaiLabs)
+[![IoT_system_model](https://github-readme-stats.vercel.app/api/pin/?username=nedoletoff&repo=IoT_system_model)](https://github.com/nedoletoff/IoT_system_model)
+
 
 ### 🔧 DevOps инструменты
 [init_debian](https://github.com/nedoletoff/init_debian)
@@ -46,5 +47,6 @@
 
 ## 📈 Активность на GitHub
 
-[GitHub stats](https://github.com/nedoletoff)
-[Top Langs](https://github.com/nedoletoff)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nedoletoff&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/nedoletoff#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedoletoff&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/nedoletoff?tab=repositories#gh-dark-mode-only)
