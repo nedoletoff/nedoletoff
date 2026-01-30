@@ -47,9 +47,4 @@
 
 ## 📈 Активность на GitHub
 
-[![Никита's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedoletoff&show_icons=true&theme=radical)](https://github.com/nedoletoff)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedoletoff&layout=compact&theme=radical&hide=html,css)](https://github.com/nedoletoff)
-
-> "The only way to go fast is to go well." 
-> Robert C. Martin
+[![GitHub stats](https://github-stats-alpha.vercel.app/api?username=nedoletoff&show_icons=true&theme=dark)](https://github.com/nedoletoff)[![Top Langs](https://github-stats-alpha.vercel.app/api/top-langs/?username=nedoletoff&layout=compact&theme=dark)](https://github.com/nedoletoff)
