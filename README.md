@@ -44,16 +44,20 @@
 
 ### 🎓 Учебные работы
 
-[![SuaiLabs](https://github-readme-stats.vercel.app/api/pin/?username=nedoletoff&repo=SuaiLabs&theme=dark)](https://github.com/nedoletoff/SuaiLabs)
-[![IoT_system_model](https://github-readme-stats.vercel.app/api/pin/?username=nedoletoff&repo=IoT_system_model&theme=dark)](https://github.com/nedoletoff/IoT_system_model)
+| Проект | Описание |
+|--------|------------|
+| [🔬 SuaiLabs](https://github.com/nedoletoff/SuaiLabs) | Лабораторные работы по информационной безопасности |
+| [📶 IoT_system_model](https://github.com/nedoletoff/IoT_system_model) | Модель IoT-системы |
 
 ### 🔧 DevOps инструменты
 
-[![init_debian](https://github-readme-stats.vercel.app/api/pin/?username=nedoletoff&repo=init_debian&theme=dark)](https://github.com/nedoletoff/init_debian)
-[![project_to_md](https://github-readme-stats.vercel.app/api/pin/?username=nedoletoff&repo=project_to_md&theme=dark)](https://github.com/nedoletoff/project_to_md)
+| Проект | Описание |
+|--------|------------|
+| [🚀 init_debian](https://github.com/nedoletoff/init_debian) | Скрипт инициализации Debian-сервера |
+| [📄 project_to_md](https://github.com/nedoletoff/project_to_md) | Конвертация проекта в Markdown |
 
 ## 📈 Активность на GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nedoletoff&show_icons=true&theme=dark&hide_border=true)
+![Contribution Chart](https://ghchart.rshah.org/nedoletoff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedoletoff&layout=compact&theme=dark&hide_border=true)
+[![GitHub Profile](https://img.shields.io/badge/Посмотреть%20профиль-nedoletoff-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nedoletoff?tab=repositories)
